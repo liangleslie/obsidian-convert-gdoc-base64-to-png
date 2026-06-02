@@ -1,10 +1,10 @@
 {
-  "id": "convert-base64-to-png",
-  "name": "Convert Base64 to PNG",
+  "id": "convert-gdoc-base64-to-png",
+  "name": "Convert Base64 to PNG for GDoc",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
-  "description": "Convert base64-encoded images in notes to local PNG files",
-  "author": "Nykko Lin",
-  "authorUrl": "https://github.com/nykkolin",
+  "description": "Convert base64-encoded images in notes to local PNG files for GDoc exported MDs",
+  "author": "Leslie Liang",
+  "authorUrl": "https://github.com/liangleslie",
   "isDesktopOnly": false
 }
